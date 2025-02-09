@@ -1,0 +1,185 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DAL" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strConn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChungConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChungConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChungConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456;Encrypt=False;TrustServerCertificate=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456;Encrypt=False;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChungConnectionString3" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung2ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung2;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung2;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung4ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung4;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung4;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung2ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung2;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung2;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung6ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung6;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung6;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung3ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung3;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung3;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung7ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung7;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung7;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung8ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung8;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung8;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung4ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung4;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung4;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung5ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung5;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung5;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung7ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung7;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-OTH2ANP\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung7;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung10ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung10;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChung10;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChungChinhConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChungChinh;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTiemChungChinh;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChung7ConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=.\;Initial Catalog=DoAn_QLTiemChung7;Integrated Security=True;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\;Initial Catalog=DoAn_QLTiemChung7;Integrated Security=True;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTiemChungConnectionString4" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=.\;Initial Catalog=DoAn_QLTiemChung;Integrated Security=True;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\;Initial Catalog=DoAn_QLTiemChung;Integrated Security=True;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTTTiemChungConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=.\;Initial Catalog=DoAn_QLTTTiemChung;Integrated Security=True;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\;Initial Catalog=DoAn_QLTTTiemChung;Integrated Security=True;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTTTiemChung2ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=.\;Initial Catalog=DoAn_QLTTTiemChung2;Integrated Security=True;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\;Initial Catalog=DoAn_QLTTTiemChung2;Integrated Security=True;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTTTiemChungConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTTTiemChung;User ID=sa;Password=123456;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-SNLG86J\SQLEXPRESS;Initial Catalog=DoAn_QLTTTiemChung;User ID=sa;Password=123456;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="DoAn_QLTTTiemChung3ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=.\;Initial Catalog=DoAn_QLTTTiemChung3;Integrated Security=True;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\;Initial Catalog=DoAn_QLTTTiemChung3;Integrated Security=True;Encrypt=False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

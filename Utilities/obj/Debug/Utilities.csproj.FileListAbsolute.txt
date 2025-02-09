@@ -1,0 +1,68 @@
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\DoAnChuyenNganh\Test1\PhanMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\DoAnChuyenNganh\Test1\PhanMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\DoAnChuyenNganh\Test1\PhanMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\DoAnChuyenNganh\Test1\PhanMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\DoAnChuyenNganh\Test1\PhanMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\DoAnChuyenNganh\Test1\PhanMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[27_11]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[27_11]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[27_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[27_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[27_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[27_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[27_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[28_11]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[28_11]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[28_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[28_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[28_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[28_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\[28_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\30_11]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\30_11]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\30_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\30_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\30_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\30_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\25_11\TAM\30_11]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\TAM\[07_12]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\TAM\[07_12]_PhamMemQuanLyTiemChung\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\TAM\[07_12]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\TAM\[07_12]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\TAM\[07_12]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\TAM\[07_12]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Documents\GOP_DOAN\VACCINE\TAM\[07_12]_PhamMemQuanLyTiemChung\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\NOPBAI\DoAnPhanMemQLTTTiemChung\DoAnPhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Desktop\NOPBAI\DoAnPhanMemQLTTTiemChung\DoAnPhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\NOPBAI\DoAnPhanMemQLTTTiemChung\DoAnPhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Desktop\NOPBAI\DoAnPhanMemQLTTTiemChung\DoAnPhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Desktop\NOPBAI\DoAnPhanMemQLTTTiemChung\DoAnPhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Desktop\NOPBAI\DoAnPhanMemQLTTTiemChung\DoAnPhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Desktop\NOPBAI\DoAnPhanMemQLTTTiemChung\DoAnPhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\NOPBAI\DACN_PhanMemQLTTTiemChung\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Desktop\NOPBAI\DACN_PhanMemQLTTTiemChung\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\NOPBAI\DACN_PhanMemQLTTTiemChung\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Desktop\NOPBAI\DACN_PhanMemQLTTTiemChung\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Desktop\NOPBAI\DACN_PhanMemQLTTTiemChung\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Desktop\NOPBAI\DACN_PhanMemQLTTTiemChung\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Desktop\NOPBAI\DACN_PhanMemQLTTTiemChung\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.Up2Date
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Desktop\NOPBAI\TEST\DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.dll
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.ResolveComReference.cache
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.csproj.Up2Date
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.dll
+C:\Users\Triss\Desktop\TEST\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\[16_12]_DACN_PhanMemQLTTTiemChung_PhanCode\Utilities\obj\Debug\Utilities.pdb

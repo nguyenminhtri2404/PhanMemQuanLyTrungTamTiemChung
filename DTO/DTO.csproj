@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{04549859-CAC4-4F5F-A05F-2143228B3AB9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DTO</RootNamespace>
+    <AssemblyName>DTO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CauHoiSangLocDTO.cs" />
+    <Compile Include="ChucVuDTO.cs" />
+    <Compile Include="ConfigDTO.cs" />
+    <Compile Include="CTPhieuNhapDTO.cs" />
+    <Compile Include="DanhMucManHinhDTO.cs" />
+    <Compile Include="DanhSachGoiVaccineDTO.cs" />
+    <Compile Include="DanhSachVaccineDTO.cs" />
+    <Compile Include="DapAnDTO.cs" />
+    <Compile Include="DoanhThuDTO.cs" />
+    <Compile Include="GoiVaccineDTO.cs" />
+    <Compile Include="HoaDonDTO.cs" />
+    <Compile Include="HoaDonInfDTO.cs" />
+    <Compile Include="HoaDonKhachHangDTO.cs" />
+    <Compile Include="KeHoachTiemChungDTO.cs" />
+    <Compile Include="KhachHangDTO.cs" />
+    <Compile Include="KhuyenMaiDTO.cs" />
+    <Compile Include="LichSuTiemChungDTO.cs" />
+    <Compile Include="LichTiemChungDTO.cs" />
+    <Compile Include="LichTiemChungInfo.cs" />
+    <Compile Include="LoaiTiemChungDTO.cs" />
+    <Compile Include="LoaiVaccineDTO.cs" />
+    <Compile Include="LoVaccineDTO.cs" />
+    <Compile Include="NguoiGiamHoDTO.cs" />
+    <Compile Include="NhaCungCapDTO.cs" />
+    <Compile Include="NhanVienDTO.cs" />
+    <Compile Include="NhanVien_ChucVuDTO.cs" />
+    <Compile Include="PhanQuyenDTO.cs" />
+    <Compile Include="PhieuKhamDetailsDTO.cs" />
+    <Compile Include="PhieuKhamSangLocDTO.cs" />
+    <Compile Include="PhieuKham_GoiVacXinDTO.cs" />
+    <Compile Include="PhieuKham_VaccineDTO.cs" />
+    <Compile Include="PhieuNhapDTO.cs" />
+    <Compile Include="PhieuTheoDoiDTO.cs" />
+    <Compile Include="PhongBenhDTO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaiKhoanDTO.cs" />
+    <Compile Include="ThongTinChiTietVaccineDTO.cs" />
+    <Compile Include="TiemChungDTO.cs" />
+    <Compile Include="VaccineDTO.cs" />
+    <Compile Include="VaccineGoiVaccineDTO.cs" />
+    <Compile Include="VaccineInfoDTO.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
