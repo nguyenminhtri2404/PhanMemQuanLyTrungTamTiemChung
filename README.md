@@ -1,5 +1,6 @@
-##Ngôn ngữ: C#
-##Công nghệ sử dụng: Winform C#, SQL Server
+##Ngôn ngữ: C#.
+
+##Công nghệ sử dụng: Winform C#, SQL Server.
 ##Chức năng chính:
 - Đăng nhập, dổi mật khẩu
 - Phân quyền theo vai trò nhân viên
