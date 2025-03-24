@@ -11,6 +11,7 @@
   - Thực hiện tiêm chủng
   - Nhắc hẹn qua email
   - Theo dõi sau tiêm
+
 - Lập phiếu đặt hàng
 - Lập hóa đơn thanh toán
 - Thống kê, báo cáo doanh thu (Word, Crystal Report)  
